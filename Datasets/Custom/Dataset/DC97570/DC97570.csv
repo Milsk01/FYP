@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+11:10,437,368,134,54,Normal.jpg,1280,960
+Nov-22,515,288,99,50,Normal.jpg,1280,960
+TU,437,283,67,54,Normal.jpg,1280,960

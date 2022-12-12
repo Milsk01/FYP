@@ -1,0 +1,5 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+12 : 08,197,216,231,75,Radio Clock.jpg,488,488
+Westclox,245,294,108,29,Radio Clock.jpg,488,488
+PM,143,218,23,17,Radio Clock.jpg,488,488
+ALM,147,282,27,16,Radio Clock.jpg,488,488

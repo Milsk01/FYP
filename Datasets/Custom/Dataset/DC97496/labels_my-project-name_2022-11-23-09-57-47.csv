@@ -1,0 +1,9 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+4,367,400,109,169,DC97496_Blurry.jpg,960,1280
+W,504,406,82,64,DC97496_Blurry.jpg,960,1280
+4,398,428,90,149,DC97496_Glare.jpg,960,1280
+W,534,438,66,64,DC97496_Glare.jpg,960,1280
+4,422,486,94,129,DC97496_Ideal.jpg,960,1280
+W,552,494,50,64,DC97496_Ideal.jpg,960,1280
+4,105,216,136,125,DC97496_Rotated.jpg,450,600
+W,201,147,51,58,DC97496_Rotated.jpg,450,600

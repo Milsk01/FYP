@@ -1,0 +1,37 @@
+<annotation>
+	<folder>dc98190</folder>
+	<filename>DC98190_rotated.jpeg</filename>
+	<path>/dc98190/DC98190_rotated.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>4.2KG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>728</xmin>
+			<ymin>603</ymin>
+			<xmax>983</xmax>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>4.9KG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>831</xmin>
+			<ymin>676</ymin>
+			<xmax>847</xmax>
+			<ymax>684</ymax>
+		</bndbox>
+	</object>
+</annotation>

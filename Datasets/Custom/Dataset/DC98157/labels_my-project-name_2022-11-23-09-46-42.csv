@@ -1,0 +1,5 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+Number,370,548,113,88,DC98157_blurry.jpg,960,1280
+Number,387,439,114,104,DC98157_glare.jpg,960,1280
+Number,408,384,126,121,DC98157_ideal.jpg,960,1280
+Number,122,397,132,137,DC98157_rotate.jpg,960,1280

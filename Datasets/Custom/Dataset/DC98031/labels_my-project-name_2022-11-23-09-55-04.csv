@@ -1,0 +1,9 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+55 : 00,323,630,284,99,DC98031_ideal.jpg,960,1280
+Power Level,698,1003,180,42,DC98031_ideal.jpg,960,1280
+55 : 00,377,579,236,89,DC98031_blurry.jpg,960,1280
+Power Level,676,885,161,37,DC98031_blurry.jpg,960,1280
+55 : 00,356,484,236,89,DC98031_glare.jpg,960,1280
+Power Level,672,796,154,49,DC98031_glare.jpg,960,1280
+55 : 00,433,519,234,194,DC98031_rotated.jpg,960,1280
+Power Level,454,911,164,131,DC98031_rotated.jpg,960,1280

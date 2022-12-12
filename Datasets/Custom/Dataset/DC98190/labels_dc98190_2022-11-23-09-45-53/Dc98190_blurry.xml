@@ -1,0 +1,25 @@
+<annotation>
+	<folder>dc98190</folder>
+	<filename>Dc98190_blurry.jpeg</filename>
+	<path>/dc98190/Dc98190_blurry.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>238</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>4.2KG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>65</ymin>
+			<xmax>223</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>

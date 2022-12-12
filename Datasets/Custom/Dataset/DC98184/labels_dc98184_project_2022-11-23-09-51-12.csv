@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+12.36,717,1484,850,356,DC98184_glare.jpg,2250,4000
+Plus,1958,1544,208,191,DC98184_glare.jpg,2250,4000
+Minus,66,1579,208,174,DC98184_glare.jpg,2250,4000

@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+20,370,487,110,91,photo_2022-11-23_09-43-19.jpg,960,1280
+Off,432,632,76,65,photo_2022-11-23_09-43-19.jpg,960,1280
+Auto,66,687,130,69,photo_2022-11-23_09-43-19.jpg,960,1280

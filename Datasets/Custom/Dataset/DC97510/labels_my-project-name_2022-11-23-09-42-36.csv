@@ -1,0 +1,3 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+7:08 ,465,160,421,341,maxresdefault.jpg,1280,720
+AL,580,245,53,41,maxresdefault.jpg,1280,720

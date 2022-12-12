@@ -1,0 +1,13 @@
+{"totalWords": 165, "detWords": 165, "crwN": 33.0, "crwupN": 33.0, "ted": 332.0, "tedL": 82.41111111111111, "crw": 0.2, "tedup": 332.0, "tedupL": 82.41111111111111, "crwup": 0.2}
+{"totalWords": 165, "detWords": 165, "crwN": 11.0, "crwupN": 11.0, "ted": 553.0, "tedL": 134.56666666666663, "crw": 0.06666666666666667, "tedup": 553.0, "tedupL": 134.56666666666663, "crwup": 0.06666666666666667}
+{"totalWords": 165, "detWords": 165, "crwN": 5.0, "crwupN": 5.0, "ted": 680.0, "tedL": 165.13611111111115, "crw": 0.030303030303030304, "tedup": 680.0, "tedupL": 165.13611111111115, "crwup": 0.030303030303030304}
+{"totalWords": 165, "detWords": 165, "crwN": 11.0, "crwupN": 11.0, "ted": 576.0, "tedL": 140.16388888888892, "crw": 0.06666666666666667, "tedup": 576.0, "tedupL": 140.16388888888892, "crwup": 0.06666666666666667}
+{"totalWords": 165, "detWords": 165, "crwN": 22.0, "crwupN": 22.0, "ted": 431.0, "tedL": 105.61944444444443, "crw": 0.13333333333333333, "tedup": 431.0, "tedupL": 105.61944444444443, "crwup": 0.13333333333333333}
+{"totalWords": 165, "detWords": 165, "crwN": 24.0, "crwupN": 24.0, "ted": 396.0, "tedL": 97.57777777777774, "crw": 0.14545454545454545, "tedup": 396.0, "tedupL": 97.57777777777774, "crwup": 0.14545454545454545}
+{"totalWords": 165, "detWords": 165, "crwN": 12.0, "crwupN": 12.0, "ted": 566.0, "tedL": 141.24722222222223, "crw": 0.07272727272727272, "tedup": 566.0, "tedupL": 141.24722222222223, "crwup": 0.07272727272727272}
+{"totalWords": 165, "detWords": 165, "crwN": 16.0, "crwupN": 16.0, "ted": 511.0, "tedL": 126.51666666666661, "crw": 0.09696969696969697, "tedup": 511.0, "tedupL": 126.51666666666661, "crwup": 0.09696969696969697}
+{"totalWords": 165, "detWords": 495, "crwN": 0.0, "crwupN": 0.0, "ted": 704.0, "tedL": 166.625, "crw": 0.0, "tedup": 704.0, "tedupL": 166.625, "crwup": 0.0}
+{"totalWords": 165, "detWords": 495, "crwN": 0.0, "crwupN": 0.0, "ted": 704.0, "tedL": 166.625, "crw": 0.0, "tedup": 704.0, "tedupL": 166.625, "crwup": 0.0}
+{"totalWords": 165, "detWords": 495, "crwN": 0.0, "crwupN": 0.0, "ted": 704.0, "tedL": 166.625, "crw": 0.0, "tedup": 704.0, "tedupL": 166.625, "crwup": 0.0}
+{"totalWords": 165, "detWords": 495, "crwN": 0.0, "crwupN": 0.0, "ted": 704.0, "tedL": 166.625, "crw": 0.0, "tedup": 704.0, "tedupL": 166.625, "crwup": 0.0}
+{"totalWords": 165, "detWords": 495, "crwN": 0.0, "crwupN": 0.0, "ted": 704.0, "tedL": 166.625, "crw": 0.0, "tedup": 704.0, "tedupL": 166.625, "crwup": 0.0}

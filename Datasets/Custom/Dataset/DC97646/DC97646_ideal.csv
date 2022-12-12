@@ -1,0 +1,10 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+Panasonic,147,5,370,61,DC97646_ideal.jpg,678,682
+1:00,223,244,212,90,DC97646_ideal.jpg,678,682
+Convection,90,433,472,41,DC97646_ideal.jpg,678,682
+Micro Power,30,592,171,33,DC97646_ideal.jpg,678,682
+Grill,288,598,62,30,DC97646_ideal.jpg,678,682
+Convection,442,602,170,31,DC97646_ideal.jpg,678,682
+###Micro Power,59,632,112,29,DC97646_ideal.jpg,678,682
+###Grill,261,634,114,31,DC97646_ideal.jpg,678,682
+###Convection,439,637,175,34,DC97646_ideal.jpg,678,682

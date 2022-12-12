@@ -1,0 +1,6 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+4.2KG,403,850,229,118,DC98190_glare.jpeg,960,1280
+4.2KG,728,603,255,147,DC98190_rotated.jpeg,1280,960
+4.9KG,831,676,16,8,DC98190_rotated.jpeg,1280,960
+4.2KG,148,65,75,33,Dc98190_blurry.jpeg,300,238
+4.2KG,489,338,135,135,Dc98190_ideal.jpeg,960,1280

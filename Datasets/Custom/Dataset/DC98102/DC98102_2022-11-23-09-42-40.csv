@@ -1,0 +1,7 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+C00,1178,996,899,300,DC98102_Ideal.jpg,3000,4000
+UTNI,1152,1885,837,164,DC98102_Ideal.jpg,3000,4000
+TYPE,1231,1736,116,55,DC98102_Ideal.jpg,3000,4000
+STABIL,1370,1743,133,52,DC98102_Ideal.jpg,3000,4000
+2011,1732,2094,154,70,DC98102_Ideal.jpg,3000,4000
+POWER,2205,2097,147,66,DC98102_Ideal.jpg,3000,4000

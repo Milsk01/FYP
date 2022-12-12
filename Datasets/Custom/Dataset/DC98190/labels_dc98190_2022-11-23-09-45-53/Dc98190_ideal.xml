@@ -1,0 +1,25 @@
+<annotation>
+	<folder>dc98190</folder>
+	<filename>Dc98190_ideal.jpeg</filename>
+	<path>/dc98190/Dc98190_ideal.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>4.2KG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>338</ymin>
+			<xmax>623</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

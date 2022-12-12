@@ -1,0 +1,4 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+17260.5,314,419,250,79,dc97471_ideal.jpg,960,1280
+2000047,314,798,201,38,dc97471_ideal.jpg,960,1280
+17260.5,302,643,255,98,dc97471_blurry.jpg,960,1280

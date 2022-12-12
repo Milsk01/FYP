@@ -1,0 +1,15 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+(Surah An-Nisa: 103),1305,1111,904,187,dc97698_ideal.jpg,3024,3616
+7:14,1008,1330,1207,381,dc97698_ideal.jpg,3024,3616
+Subuh,718,1885,891,329,dc97698_ideal.jpg,3024,3616
+Zohor,776,2260,833,368,dc97698_ideal.jpg,3024,3616
+Maghrib,808,2699,814,349,dc97698_ideal.jpg,3024,3616
+(Surah An-Nisa: 103),2016,1440,734,144,dc97698_rotated.jpg,3024,4032
+7:15,1901,1627,706,360,dc97698_rotated.jpg,3024,4032
+Fajar,1526,2095,706,324,dc97698_rotated.jpg,3024,4032
+Zohor,1555,2477,706,317,dc97698_rotated.jpg,3024,4032
+Syuruk,482,2268,871,310,dc97698_rotated.jpg,3024,4032
+Asar,504,2693,850,331,dc97698_rotated.jpg,3024,4032
+Isyak,583,3053,842,374,dc97698_rotated.jpg,3024,4032
+Maghrib,1519,2822,677,360,dc97698_rotated.jpg,3024,4032
+Islamic Calender,0,1685,1706,547,dc97698_rotated.jpg,3024,4032
